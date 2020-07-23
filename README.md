@@ -1,4 +1,4 @@
-# SelfHosting
+# Self Hosting
 What you need to know about self hosting. Written by RiversideRocks.
 
 ## Introduction
